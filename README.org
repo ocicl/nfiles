@@ -1,0 +1,10 @@
+* nfiles
+
+User configuration and data file management
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/atlas-engineer/nfiles.git   |
+| commit  | 56d19dd  |
+| systems | nfiles |
+|---------+-------------------------------------------|
+
