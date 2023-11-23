@@ -4,6 +4,6 @@ User configuration and data file management
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/atlas-engineer/nfiles.git |
-| commit  | 7f54960                                          |
+| commit  | 2ca6822                                          |
 | systems | nfiles                                           |
 |---------+--------------------------------------------------|
